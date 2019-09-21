@@ -4,11 +4,11 @@
   display: none;
 }
 
-#wall #tag-2 {
+#wall div#tag-2 {
   display: none;
 }
 
-body #wall #tag-3.slick_wicked {
+#wall #tag-3.slick_wicked {
    display: none;
 }
 
